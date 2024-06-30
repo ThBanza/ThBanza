@@ -2,6 +2,3 @@
 
 
 - Estudando para Full Stack
-- Ele/Dele
--
-
