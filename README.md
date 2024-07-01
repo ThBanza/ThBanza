@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thomaz Bazani
+### Olá! Eu sou Thomaz Bazani
 
 
 - Estudando para Full Stack
