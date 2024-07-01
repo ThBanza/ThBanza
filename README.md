@@ -24,4 +24,5 @@
  <img align="center" alt="th-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
 </div>
 
+Apaixonado por tecnologia através da programação.
 ##
